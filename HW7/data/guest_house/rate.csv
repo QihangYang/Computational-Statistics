@@ -1,0 +1,9 @@
+﻿room_type,occupancy,amount
+double,1,56
+double,2,72
+family,1,56
+family,2,72
+family,3,84
+single,1,48
+twin,1,50
+twin,2,72

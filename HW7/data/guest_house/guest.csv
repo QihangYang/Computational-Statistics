@@ -1,0 +1,650 @@
+﻿id,first_name,last_name,address
+1001,Jim,Dowd,Lewisham West and Penge
+1002,Lyn,Brown,West Ham
+1003,Ann,Clwyd,Cynon Valley
+1004,Nic,Dakin,Scunthorpe
+1005,Pat,Glass,North West Durham
+1006,Kate,Hoey,Vauxhall
+1007,Mike,Kane,Wythenshawe and Sale East
+1008,John,Mann,Bassetlaw
+1009,Joan,Ryan,Enfield North
+1010,Cat,Smith,Lancaster and Fleetwood
+1011,Mark,Tami,Alyn and Deeside
+1012,Keith,Vaz,Leicester East
+1013,Ian,Austin,Dudley North
+1014,Liam,Byrne,"Birmingham, Hodge Hill"
+1015,Ann,Coffey,Stockport
+1016,Neil,Coyle,Bermondsey and Old Southwark
+1017,John,Cryer,Leyton and Wanstead
+1018,Peter,Dowd,Bootle
+1019,Paul,Flynn,Newport West
+1020,Kate,Green,Stretford and Urmston
+1021,Sue,Hayman,Workington
+1022,Dan,Jarvis,Barnsley Central
+1023,Peter,Kyle,Hove
+1024,Ian,Lavery,Wansbeck
+1025,Rob,Marris,Wolverhampton South West
+1026,Ian,Mearns,Gateshead
+1027,Ian,Murray,Edinburgh South
+1028,Lisa,Nandy,Wigan
+1029,Jeff,Smith,"Manchester, Withington"
+1030,Nick,Smith,Blaenau Gwent
+1031,Owen,Smith,Pontypridd
+1032,Jo,Stevens,Cardiff Central
+1033,Tom,Watson,West Bromwich East
+1034,Hilary,Benn,Leeds Central
+1035,Dawn,Butler,Brent Central
+1036,Mary,Creagh,Wakefield
+1037,Jon,Cruddas,Dagenham and Rainham
+1038,Wayne,David,Caerphilly
+1039,Jack,Dromey,"Birmingham, Erdington"
+1040,Maria,Eagle,Garston and Halewood
+1041,Frank,Field,Birkenhead
+1042,Helen,Hayes,Dulwich and West Norwood
+1043,John,Healey,Wentworth and Dearne
+1044,Dr Rupa,Huq,Ealing Central and Acton
+1045,Helen,Jones,Warrington North
+1046,Liz,Kendall,Leicester West
+1047,Clive,Lewis,Norwich South
+1048,Holly,Lynch,Halifax
+1049,Liz,McInnes,Heywood and Middleton
+1050,Jim,McMahon,Oldham West and Royton
+1051,Melanie,Onn,Great Grimsby
+1052,Chi,Onwurah,Newcastle upon Tyne Central
+1053,Albert,Owen,Ynys Môn
+1054,Ruth,Smeeth,Stoke-on-Trent North
+1055,Karin,Smyth,Bristol South
+1056,Karl,Turner,Kingston upon Hull East
+1057,Derek,Twigg,Halton
+1058,Valerie,Vaz,Walsall South
+1059,Phil,Wilson,Sedgefield
+1060,Kevin,Barron,Rother Valley
+1061,John,Bercow,Buckingham
+1062,Chris,Bryant,Rhondda
+1063,Andy,Burnham,Leigh
+1064,Ruth,Cadbury,Brentford and Isleworth
+1065,Julie,Cooper,Burnley
+1066,Rosie,Cooper,West Lancashire
+1067,Clive,Efford,Eltham
+1068,Chris,Elmore,Ogmore
+1069,Gill,Furniss,"Sheffield, Brightside and Hillsborough"
+1070,Mary,Glindon,North Tyneside
+1071,Nia,Griffith,Llanelli
+1072,Louise,Haigh,"Sheffield, Heeley"
+1073,Kate,Hollern,Blackburn
+1074,Alan,Johnson,Kingston upon Hull West and Hessle
+1075,Gerald,Jones,Merthyr Tydfil and Rhymney
+1076,Graham,Jones,Hyndburn
+1077,Ian C.,Lucas,Wrexham
+1078,Steve,McCabe,"Birmingham, Selly Oak"
+1079,Conor,McGinn,St Helens North
+1080,Toby,Perkins,Chesterfield
+1081,Marie,Rimmer,St Helens South and Whiston
+1082,Tulip,Siddiq,Hampstead and Kilburn
+1083,Angela,Smith,Penistone and Stocksbridge
+1084,John,Spellar,Warley
+1085,Keir,Starmer,Holborn and St Pancras
+1086,Jon,Trickett,Hemsworth
+1087,Rushanara,Ali,Bethnal Green and Bow
+1088,Kevin,Brennan,Cardiff West
+1089,Ms Karen,Buck,Westminster North
+1090,Jenny,Chapman,Darlington
+1091,Vernon,Coaker,Gedling
+1092,Yvette,Cooper,"Normanton, Pontefract and Castleford"
+1093,Jeremy,Corbyn,Islington North
+1094,Julie,Elliott,Sunderland Central
+1095,Bill,Esterson,Sefton Central
+1096,Paul,Farrelly,Newcastle-under-Lyme
+1097,Robert,Flello,Stoke-on-Trent South
+1098,Helen,Goodman,Bishop Auckland
+1099,Andrew,Gwynne,Denton and Reddish
+1100,Tristram,Hunt,Stoke-on-Trent Central
+1101,Imran,Hussain,Bradford East
+1102,Diana,Johnson,Kingston upon Hull North
+1103,Mr Ivan,Lewis,Bury South
+1104,Andy,McDonald,Middlesbrough
+1105,Teresa,Pearce,Erith and Thamesmead
+1106,Jess,Phillips,"Birmingham, Yardley"
+1107,Stephen,Pound,Ealing North
+1108,Angela,Rayner,Ashton-under-Lyne
+1109,Mr Jamie,Reed,Copeland
+1110,Rachel,Reeves,Leeds West
+1111,Emma,Reynolds,Wolverhampton North East
+1112,Naz,Shah,Bradford West
+1113,Wes,Streeting,Ilford North
+1114,Stephen,Timms,East Ham
+1115,Mr Clive,Betts,Sheffield South East
+1116,Tom,Blenkinsop,Middlesbrough South and East Cleveland
+1117,Paul,Blomfield,Sheffield Central
+1118,Richard,Burden,"Birmingham, Northfield"
+1119,Richard,Burgon,Leeds East
+1120,Sarah,Champion,Rotherham
+1121,Judith,Cummins,Bradford South
+1122,Michael,Dugher,Barnsley East
+1123,Natascha,Engel,North East Derbyshire
+1124,Caroline,Flint,Don Valley
+1125,Vicky,Foxcroft,"Lewisham, Deptford"
+1126,Barry,Gardiner,Brent North
+1127,Carolyn,Harris,Swansea East
+1128,Kelvin,Hopkins,Luton North
+1129,Mr Kevan,Jones,North Durham
+1130,Barbara,Keeley,Worsley and Eccles South
+1131,Mr David,Lammy,Tottenham
+1132,Kerry,McCarthy,Bristol East
+1133,John,McDonnell,Hayes and Harlington
+1134,Justin,Madders,Ellesmere Port and Neston
+1135,Gordon,Marsden,Blackpool South
+1136,Paul,Maskey,Belfast West
+1137,Sir Alan,Meale,Mansfield
+1138,Jessica,Morden,Newport East
+1139,Grahame,Morris,Easington
+1140,Yasmin,Qureshi,Bolton South East
+1141,Christina,Rees,Neath
+1142,Steve,Rotheram,"Liverpool, Walton"
+1143,Paula,Sherriff,Dewsbury
+1144,Andy,Slaughter,Hammersmith
+1145,Catherine,West,Hornsey and Wood Green
+1146,Mr Iain,Wright,Hartlepool
+1147,Ms Diane,Abbott,Hackney North and Stoke Newington
+1148,Debbie,Abrahams,Oldham East and Saddleworth
+1149,Heidi,Alexander,Lewisham East
+1150,Mr Graham,Allen,Nottingham North
+1151,Guto,Bebb,Aberconwy
+1152,Mr Ben,Bradshaw,Exeter
+1153,Mickey,Brady,Newry and Armagh
+1154,Alex,Cunningham,Stockton North
+1155,Gloria,De Piero,Ashfield
+1156,Ms Angela,Eagle,Wallasey
+1157,Jim,Fitzpatrick,Poplar and Limehouse
+1158,Yvonne,Fovargue,Makerfield
+1159,Nick,Gibb,Bognor Regis and Littlehampton
+1160,John,Glen,Salisbury
+1161,Luke,Hall,Thornbury and Yate
+1162,Fabian,Hamilton,Leeds North East
+1163,Mr David,Hanson,Delyn
+1164,Stephen,Kinnock,Aberavon
+1165,Mr Pat,McFadden,Wolverhampton South East
+1166,Alison,McGovern,Wirral South
+1167,Shabana,Mahmood,"Birmingham, Ladywood"
+1168,Edward,Miliband,Doncaster North
+1169,Mr Andrew,Smith,Oxford East
+1170,Graham,Stringer,Blackley and Broughton
+1171,Mr Chuka,Umunna,Streatham
+1172,Mike,Wood,Dudley South
+1173,Daniel,Zeichner,Cambridge
+1174,Lucy,Allan,Telford
+1175,Margaret,Beckett,Derby South
+1176,Jake,Berry,Rossendale and Darwen
+1177,Nick,Boles,Grantham and Stamford
+1178,Mr Alan,Campbell,Tynemouth
+1179,Alex,Chalk,Cheltenham
+1180,Greg,Clark,Tunbridge Wells
+1181,Mr David,Crausby,Bolton North East
+1182,Mark,Field,Cities of London and Westminster
+1183,Colleen,Fletcher,Coventry North East
+1184,Mike,Freer,Finchley and Golders Green
+1185,Mr Roger,Godsiff,"Birmingham, Hall Green"
+1186,James,Gray,North Wiltshire
+1187,Lilian,Greenwood,Nottingham South
+1188,Ben,Gummer,Ipswich
+1189,Greg,Hands,Chelsea and Fulham
+1190,Simon,Hart,Carmarthen West and South Pembrokeshire
+1191,Lady,Hermon,North Down
+1192,Mr Lindsay,Hoyle,Chorley
+1193,Susan Elan,Jones,Clwyd South
+1194,Fiona,Mactaggart,Slough
+1195,Scott,Mann,North Cornwall
+1196,Dr,Poulter,Central Suffolk and North Ipswich
+1197,Amber,Rudd,Hastings and Rye
+1198,Mel,Stride,Central Devon
+1199,Ms Gisela,Stuart,"Birmingham, Edgbaston"
+1200,Emily,Thornberry,Islington South and Finsbury
+1201,Mr David,Winnick,Walsall North
+1202,Nigel,Adams,Selby and Ainsty
+1203,Heidi,Allen,South Cambridgeshire
+1204,Mr David,Anderson,Blaydon
+1205,James,Berry,Kingston and Surbiton
+1206,Steve,Brine,Winchester
+1207,Mr Nicholas,Brown,Newcastle upon Tyne East
+1208,Fiona,Bruce,Congleton
+1209,Conor,Burns,Bournemouth West
+1210,Alun,Cairns,Vale of Glamorgan
+1211,Mr Jim,Cunningham,Coventry South
+1212,Glyn,Davies,Montgomeryshire
+1213,Mims,Davies,Eastleigh
+1214,Mr Pat,Doherty,West Tyrone
+1215,Dr Liam,Fox,North Somerset
+1216,Lucy,Frazer,South East Cambridgeshire
+1217,Marcus,Fysh,Yeovil
+1218,Chris,Green,Bolton West
+1219,Ms Harriet,Harman,Camberwell and Peckham
+1220,Simon,Hoare,North Dorset
+1221,Mr George,Howarth,Knowsley
+1222,John,Howell,Henley
+1223,Ben,Howlett,Bath
+1224,Sajid,Javid,Bromsgrove
+1225,Simon,Kirby,"Brighton, Kemptown"
+1226,Siobhain,McDonagh,Mitcham and Morden
+1227,Mr Khalid,Mahmood,"Birmingham, Perry Barr"
+1228,Mr Alan,Mak,Havant
+1229,Nigel,Mills,Amber Valley
+1230,Anne,Milton,Guildford
+1231,Francie,Molloy,Mid Ulster
+1232,David,Mowat,Warrington South
+1233,Neil,Parish,Tiverton and Honiton
+1234,Priti,Patel,Witham
+1235,Mark,Pawsey,Rugby
+1236,Matthew,Pennycook,Greenwich and Woolwich
+1237,Chris,Philp,Croydon South
+1238,Rebecca,Pow,Taunton Deane
+1239,Jeremy,Quin,Horsham
+1240,Will,Quince,Colchester
+1241,Paul,Scully,Sutton and Cheam
+1242,Alok,Sharma,Reading West
+1243,Mr Dennis,Skinner,Bolsover
+1244,Chloe,Smith,Norwich North
+1245,Henry,Smith,Crawley
+1246,Anna,Soubry,Broxtowe
+1247,Bob,Stewart,Beckenham
+1248,Rishi,Sunak,Richmond (Yorks)
+1249,Matt,Warman,Boston and Skegness
+1250,Chris,White,Warwick and Leamington
+1251,Dr Alan,Whitehead,"Southampton, Test"
+1252,Bill,Wiggin,North Herefordshire
+1253,Adam,Afriyie,Windsor
+1254,Peter,Aldous,Waveney
+1255,Edward,Argar,Charnwood
+1256,Bob,Blackman,Harrow East
+1257,Mr Ronnie,Campbell,Blyth Valley
+1258,Jo,Churchill,Bury St Edmunds
+1259,Simon,Danczuk,Rochdale
+1260,Byron,Davies,Gower
+1261,Chris,Davies,Brecon and Radnorshire
+1262,Thangam,Debbonaire,Bristol West
+1263,Steve,Double,St Austell and Newquay
+1264,Richard,Drax,South Dorset
+1265,Jane,Ellison,Battersea
+1266,Graham,Evans,Weaver Vale
+1267,Kevin,Foster,Torbay
+1268,Mike,Gapes,Ilford South
+1269,Mark,Garnier,Wyre Forest
+1270,Nusrat,Ghani,Wealden
+1271,Michael,Gove,Surrey Heath
+1272,Damian,Green,Ashford
+1273,Margaret,Greenwood,Wirral West
+1274,Mr Stephen,Hepburn,Jarrow
+1275,Nick,Herbert,Arundel and South Downs
+1276,Damian,Hinds,East Hampshire
+1277,Mrs Sharon,Hodgson,Washington and Sunderland West
+1278,Kris,Hopkins,Keighley
+1279,Mr Nick,Hurd,"Ruislip, Northwood and Pinner"
+1280,Margot,James,Stourbridge
+1281,Andrew,Jones,Harrogate and Knaresborough
+1282,Sir Gerald,Kaufman,"Manchester, Gorton"
+1283,Tim,Loughton,East Worthing and Shoreham
+1284,Karen,Lumley,Redditch
+1285,Christian,Matheson,City of Chester
+1286,Paul,Maynard,Blackpool North and Cleveleys
+1287,Mark,Menzies,Fylde
+1288,Huw,Merriman,Bexhill and Battle
+1289,Mrs Madeleine,Moon,Bridgend
+1290,Nicky,Morgan,Loughborough
+1291,David,Morris,Morecambe and Lunesdale
+1292,James,Morris,Halesowen and Rowley Regis
+1293,Wendy,Morton,Aldridge-Brownhills
+1294,Robert,Neill,Bromley and Chislehurst
+1295,Sarah,Newton,Truro and Falmouth
+1296,Jesse,Norman,Hereford and South Herefordshire
+1297,Guy,Opperman,Hexham
+1298,Mike,Penning,Hemel Hempstead
+1299,John,Penrose,Weston-super-Mare
+1300,Andrew,Percy,Brigg and Goole
+1301,Claire,Perry,Devizes
+1302,Bridget,Phillipson,Houghton and Sunderland South
+1303,Dominic,Raab,Esher and Walton
+1304,John,Redwood,Wokingham
+1305,David,Rutley,Macclesfield
+1306,Grant,Shapps,Welwyn Hatfield
+1307,Mr Virendra,Sharma,"Ealing, Southall"
+1308,Julian,Smith,Skipton and Ripon
+1309,Mark,Spencer,Sherwood
+1310,Iain,Stewart,Milton Keynes South
+1311,Rory,Stewart,Penrith and The Border
+1312,Derek,Thomas,St Ives
+1313,Craig,Tracey,North Warwickshire
+1314,Stuart,Andrew,Pudsey
+1315,Mr John,Baron,Basildon and Billericay
+1316,Gavin,Barwell,Croydon Central
+1317,Crispin,Blunt,Reigate
+1318,Mr Peter,Bone,Wellingborough
+1319,Karen,Bradley,Staffordshire Moorlands
+1320,Tom,Brake,Carshalton and Wallington
+1321,Alistair,Burt,North East Bedfordshire
+1322,Alberto,Costa,South Leicestershire
+1323,Stephen,Crabb,Preseli Pembrokeshire
+1324,Tracey,Crouch,Chatham and Aylesford
+1325,Philip,Davies,Shipley
+1326,Oliver,Dowden,Hertsmere
+1327,Michael,Ellis,Northampton North
+1328,Chris,Evans,Islwyn
+1329,Zac,Goldsmith,Richmond Park
+1330,Mr Sam,Gyimah,East Surrey
+1331,Robert,Halfon,Harlow
+1332,Mr John,Hayes,South Holland and The Deepings
+1333,James,Heappey,Wells
+1334,Meg,Hillier,Hackney South and Shoreditch
+1335,Dame Margaret,Hodge,Barking
+1336,Adam,Holloway,Gravesham
+1337,Boris,Johnson,Uxbridge and South Ruislip
+1338,Seema,Kennedy,South Ribble
+1339,Julian,Knight,Solihull
+1340,Jeremy,Lefroy,Stafford
+1341,Brandon,Lewis,Great Yarmouth
+1342,Rebecca,Long Bailey,Salford and Eccles
+1343,Jack,Lopresti,Filton and Bradley Stoke
+1344,Caroline,Lucas,"Brighton, Pavilion"
+1345,Catherine,McKinnell,Newcastle upon Tyne North
+1346,Mrs Anne,Main,St Albans
+1347,Kit,Malthouse,North West Hampshire
+1348,Johnny,Mercer,"Plymouth, Moor View"
+1349,David,Mundell,"Dumfriesshire, Clydesdale and Tweeddale"
+1350,Kate,Osamor,Edmonton
+1351,Lucy,Powell,Manchester Central
+1352,Mr Mark,Prisk,Hertford and Stortford
+1353,John,Pugh,Southport
+1354,Tom,Pursglove,Corby
+1355,Mary,Robinson,Cheadle
+1356,Andrew,Selous,South West Bedfordshire
+1357,Royston,Smith,"Southampton, Itchen"
+1358,Graham,Stuart,Beverley and Holderness
+1359,Julian,Sturdy,York Outer
+1360,Mr Hugo,Swire,East Devon
+1361,Nick,Thomas-Symonds,Torfaen
+1362,Maggie,Throup,Erewash
+1363,Tom,Tugendhat,Tonbridge and Malling
+1364,Anna,Turley,Redcar
+1365,James,Wharton,Stockton South
+1366,Helen,Whately,Faversham and Mid Kent
+1367,Hywel,Williams,Arfon
+1368,Mr Rob,Wilson,Reading East
+1369,William,Wragg,Hazel Grove
+1370,Jeremy,Wright,Kenilworth and Southam
+1371,Nadhim,Zahawi,Stratford-on-Avon
+1372,Dr Rosena,Allin-Khan,Tooting
+1373,Mr Steve,Baker,Wycombe
+1374,Richard,Benyon,Newbury
+1375,Andrew,Bingham,High Peak
+1376,Andrew,Bridgen,North West Leicestershire
+1377,Rehman,Chishti,Gillingham and Rainham
+1378,James,Cleverly,Braintree
+1379,Damian,Collins,Folkestone and Hythe
+1380,Oliver,Colvile,"Plymouth, Sutton and Devonport"
+1381,Mr David,Davis,Haltemprice and Howden
+1382,Nadine,Dorries,Mid Bedfordshire
+1383,George,Eustice,Camborne and Redruth
+1384,Mr Nigel,Evans,Ribble Valley
+1385,David,Evennett,Bexleyheath and Crayford
+1386,Michael,Fallon,Sevenoaks
+1387,Tim,Farron,Westmorland and Lonsdale
+1388,George,Freeman,Mid Norfolk
+1389,Richard,Fuller,Bedford
+1390,Sir Roger,Gale,North Thanet
+1391,Mr David,Gauke,South West Hertfordshire
+1392,Richard,Graham,Gloucester
+1393,Chris,Grayling,Epsom and Ewell
+1394,Mr Mark,Harper,Forest of Dean
+1395,Rebecca,Harris,Castle Point
+1396,Mr Jeremy,Hunt,South West Surrey
+1397,Andrea,Jenkyns,Morley and Outwood
+1398,Robert,Jenrick,Newark
+1399,Gareth,Johnson,Dartford
+1400,Joseph,Johnson,Orpington
+1401,Mr David,Jones,Clwyd West
+1402,Kwasi,Kwarteng,Spelthorne
+1403,Mark,Lancaster,Milton Keynes North
+1404,Pauline,Latham,Mid Derbyshire
+1405,Andrea,Leadsom,South Northamptonshire
+1406,Dr Phillip,Lee,Bracknell
+1407,Chris,Leslie,Nottingham East
+1408,Mrs Emma,Lewell-Buck,South Shields
+1409,Karl,McCartney,Lincoln
+1410,Natalie,McGarry,Glasgow East
+1411,Amanda,Milling,Cannock Chase
+1412,Penny,Mordaunt,Portsmouth North
+1413,Caroline,Nokes,Romsey and Southampton North
+1414,Mark,Pritchard,The Wrekin
+1415,Mr Geoffrey,Robinson,Coventry North West
+1416,Chris,Skidmore,Kingswood
+1417,John,Stevenson,Carlisle
+1418,Mr Robert,Syms,Poole
+1419,Edward,Timpson,Crewe and Nantwich
+1420,Kelly,Tolhurst,Rochester and Strood
+1421,Martin,Vickers,Cleethorpes
+1422,Mr Ben,Wallace,Wyre and Preston North
+1423,Craig,Williams,Cardiff North
+1424,Dame Rosie,Winterton,Doncaster Central
+1425,Sir David,Amess,Southend West
+1426,Caroline,Ansell,Eastbourne
+1427,Victoria,Atkins,Louth and Horncastle
+1428,Stephen,Barclay,North East Cambridgeshire
+1429,Mr Graham,Brady,Altrincham and Sale West
+1430,Robert,Buckland,South Swindon
+1431,Sir Simon,Burns,Chelmsford
+1432,Neil,Carmichael,Stroud
+1433,James,Cartlidge,South Suffolk
+1434,Maria,Caulfield,Lewes
+1435,Mr Geoffrey,Cox,Torridge and West Devon
+1436,Stella,Creasy,Walthamstow
+1437,Dr James,Davies,Vale of Clwyd
+1438,James,Duddridge,Rochford and Southend East
+1439,Sir Alan,Duncan,Rutland and Melton
+1440,Mr Philip,Dunne,Ludlow
+1441,Jonathan,Edwards,Carmarthen East and Dinefwr
+1442,Mrs Helen,Grant,Maidstone and The Weald
+1443,Stephen,Hammond,Wimbledon
+1444,Matthew,Hancock,West Suffolk
+1445,Mr Marcus,Jones,Nuneaton
+1446,Sir Greg,Knight,East Yorkshire
+1447,Norman,Lamb,North Norfolk
+1448,Dr Julian,Lewis,New Forest East
+1449,Mr Peter,Lilley,Hitchin and Harpenden
+1450,Jason,McCartney,Colne Valley
+1451,Craig,Mackinlay,South Thanet
+1452,Mrs Theresa,May,Maidenhead
+1453,Mr Steve,Reed,Croydon North
+1454,Alec,Shelbrooke,Elmet and Rothwell
+1455,Amanda,Solloway,Derby North
+1456,Gareth,Thomas,Harrow West
+1457,Michelle,Thomson,Edinburgh West
+1458,Elizabeth,Truss,South West Norfolk
+1459,Stephen,Twigg,"Liverpool, West Derby"
+1460,Mr Andrew,Tyrie,Chichester
+1461,Mr Robin,Walker,Worcester
+1462,David,Warburton,Somerton and Frome
+1463,Heather,Wheeler,South Derbyshire
+1464,Craig,Whittaker,Calder Valley
+1465,John,Woodcock,Barrow and Furness
+1466,Mr Richard,Bacon,South Norfolk
+1467,Harriett,Baldwin,West Worcestershire
+1468,Luciana,Berger,"Liverpool, Wavertree"
+1469,Nicola,Blackwood,Oxford West and Abingdon
+1470,Victoria,Borwick,Kensington
+1471,Mr David,Cameron,Witney
+1472,Sir William,Cash,Stone
+1473,Geraint,Davies,Swansea West
+1474,Michelle,Donelan,Chippenham
+1475,Charlie,Elphicke,Dover
+1476,Suella,Fernandes,Fareham
+1477,Mr Mark,Francois,Rayleigh and Wickford
+1478,Justine,Greening,Putney
+1479,Andrew,Griffiths,Burton
+1480,Sir Oliver,Heald,North East Hertfordshire
+1481,Gordon,Henderson,Sittingbourne and Sheppey
+1482,Kevin,Hollinrake,Thirsk and Malton
+1483,Nigel,Huddleston,Mid Worcestershire
+1484,Sir Edward,Leigh,Gainsborough
+1485,Charlotte,Leslie,Bristol North West
+1486,Mr Oliver,Letwin,West Dorset
+1487,Mr Jonathan,Lord,Woking
+1488,David,Mackintosh,Northampton South
+1489,Seema,Malhotra,Feltham and Heston
+1490,Dr Tania,Mathias,Twickenham
+1491,Stephen,Metcalfe,South Basildon and East Thurrock
+1492,Mrs Maria,Miller,Basingstoke
+1493,Mr David,Nuttall,Bury North
+1494,Mr Owen,Paterson,North Shropshire
+1495,Stephen,Phillips,Sleaford and North Hykeham
+1496,Sir Eric,Pickles,Brentwood and Ongar
+1497,Victoria,Prentis,Banbury
+1498,Andrew,Rosindell,Romford
+1499,Mr Keith,Simpson,Broadland
+1500,Andrew,Stephenson,Pendle
+1501,Mr Gary,Streeter,South West Devon
+1502,Justin,Tomlinson,North Swindon
+1503,David,Tredinnick,Bosworth
+1504,Mr Andrew,Turner,Isle of Wight
+1505,Mr Edward,Vaizey,Wantage
+1506,Mr Shailesh,Vara,North West Cambridgeshire
+1507,Gavin,Williamson,South Staffordshire
+1508,Mr Julian,Brazier,Canterbury
+1509,James,Brokenshire,Old Bexley and Sidcup
+1510,Mr David,Burrowes,"Enfield, Southgate"
+1511,Mr Kenneth,Clarke,Rushcliffe
+1512,Mr Nick,Clegg,"Sheffield, Hallam"
+1513,Dr Thérèse ,Coffey,Suffolk Coastal
+1514,Caroline,Dinenage,Gosport
+1515,Stephen,Doughty,Cardiff South and Penarth
+1516,Mrs Flick,Drummond,Portsmouth South
+1517,Mr Tobias,Ellwood,Bournemouth East
+1518,Michael,Fabricant,Lichfield
+1519,Mrs Cheryl,Gillan,Chesham and Amersham
+1520,Mr Dominic,Grieve,Beaconsfield
+1521,Mr Philip,Hammond,Runnymede and Weybridge
+1522,Mr Bernard,Jenkin,Harwich and North Essex
+1523,Daniel,Kawczynski,Shrewsbury and Atcham
+1524,Mrs Eleanor,Laing,Epping Forest
+1525,Stephen,McPartland,Stevenage
+1526,Rachael,Maskell,York Central
+1527,Anne Marie,Morris,Newton Abbot
+1528,Dr Matthew,Offord,Hendon
+1529,Mr George,Osborne,Tatton
+1530,Mr Jacob,Rees-Mogg,North East Somerset
+1531,Mr Gavin,Shuker,Luton South
+1532,Sir Desmond,Swayne,New Forest West
+1533,Michael,Tomlinson,Mid Dorset and North Poole
+1534,Mr Charles,Walker,Broxbourne
+1535,Mr Adrian,Bailey,West Bromwich West
+1536,Sir Paul,Beresford,Mole Valley
+1537,Dr Roberta,Blackman-Woods,City of Durham
+1538,David T. C.,Davies,Monmouth
+1539,Jackie,Doyle-Price,Thurrock
+1540,Sir Edward,Garnier,Harborough
+1541,Mr Robert,Goodwill,Scarborough and Whitby
+1542,Richard,Harrington,Watford
+1543,Chris,Heaton-Harris,Daventry
+1544,Peter,Heaton-Jones,North Devon
+1545,Mr Mark,Hendrick,Preston
+1546,George,Hollingbery,Meon Valley
+1547,Sir Gerald,Howarth,Aldershot
+1548,Mr Stewart,Jackson,Peterborough
+1549,Mr David,Lidington,Aylesbury
+1550,Mr Andrew,Mitchell,Sutton Coldfield
+1551,Mrs Sheryll,Murray,South East Cornwall
+1552,Dr Andrew,Murrison,South West Wiltshire
+1553,Antoinette,Sandbach,Eddisbury
+1554,Liz,Saville Roberts,Dwyfor Meirionnydd
+1555,Sir Nicholas,Soames,Mid Sussex
+1556,Dr Sarah,Wollaston,Totnes
+1557,Jonathan,Ashworth,Leicester South
+1558,Sir Henry,Bellingham,North West Norfolk
+1559,Sir Peter,Bottomley,Worthing West
+1560,Mr Christopher,Chope,Christchurch
+1561,Mr Jonathan,Djanogly,Huntingdon
+1562,Mr Iain,Duncan Smith,Chingford and Woodford Green
+1563,Mrs Louise,Ellman,"Liverpool, Riverside"
+1564,Sir Alan,Haselhurst,Saffron Walden
+1565,Mr Philip,Hollobone,Kettering
+1566,Mr Ranil,Jayawardena,North East Hampshire
+1567,Greg,Mulholland,Leeds North West
+1568,Christopher,Pincher,Tamworth
+1569,Jonathan,Reynolds,Stalybridge and Hyde
+1570,Mr Barry,Sheerman,Huddersfield
+1571,Mrs Caroline,Spelman,Meriden
+1572,Mrs Theresa,Villiers,Chipping Barnet
+1573,Mr John,Whittingdale,Maldon
+1574,Tom,Elliott,Fermanagh and South Tyrone
+1575,Neil,Gray,Airdrie and Shotts
+1576,Chris,Law,Dundee West
+1577,Mr Patrick,McLoughlin,Derbyshire Dales
+1578,Mr Laurence,Robertson,Tewkesbury
+1579,Dame Angela,Watkinson,Hornchurch and Upminster
+1580,Mike,Weir,Angus
+1581,Mr Mark,Williams,Ceredigion
+1582,Alan,Brown,Kilmarnock and Loudoun
+1583,Geoffrey,Clifton-Brown,The Cotswolds
+1584,Martyn,Day,Linlithgow and East Falkirk
+1585,Calum,Kerr,"Berwickshire, Roxburgh and Selkirk"
+1586,Peter,Grant,Glenrothes
+1587,Drew,Hendry,"Inverness, Nairn, Badenoch and Strathspey"
+1588,Danny,Kinahan,South Antrim
+1589,Mr Ian,Liddell-Grainger,Bridgwater and West Somerset
+1590,Mhairi,Black,Paisley and Renfrewshire South
+1591,Deidre,Brock,Edinburgh North and Leith
+1592,Ronnie,Cowan,Inverclyde
+1593,Roger,Mullin,Kirkcaldy and Cowdenbeath
+1594,Alex,Salmond,Gordon
+1595,Mrs Anne-Marie,Trevelyan,Berwick-upon-Tweed
+1596,Corri,Wilson,"Ayr, Carrick and Cumnock"
+1597,Pete,Wishart,Perth and North Perthshire
+1598,Ian,Blackford,"Ross, Skye and Lochaber"
+1599,Joanna,Cherry,Edinburgh South West
+1600,Patrick,Grady,Glasgow North
+1601,Stewart,Hosie,Dundee East
+1602,John,Mc Nally,Falkirk
+1603,Callum,McCaig,Aberdeen South
+1604,John,Nicolson,East Dunbartonshire
+1605,Ian,Paisley,North Antrim
+1606,Jim,Shannon,Strangford
+1607,Owen,Thompson,Midlothian
+1608,Hannah,Bardell,Livingston
+1609,Philip,Boswell,"Coatbridge, Chryston and Bellshill"
+1610,Angela,Crawley,Lanark and Hamilton East
+1611,Marion,Fellows,Motherwell and Wishaw
+1612,George,Kerevan,East Lothian
+1613,Carol,Monaghan,Glasgow North West
+1614,Gavin,Newlands,Paisley and Renfrewshire North
+1615,Brendan,O'Hara,Argyll and Bute
+1616,Kirsten,Oswald,East Renfrewshire
+1617,Tommy,Sheppard,Edinburgh East
+1618,Chris,Stephens,Glasgow South West
+1619,Sammy,Wilson,East Antrim
+1620,Richard,Arkless,Dumfries and Galloway
+1621,Kirsty,Blackman,Aberdeen North
+1622,Dr Lisa,Cameron,"East Kilbride, Strathaven and Lesmahagow"
+1623,Mr Alistair,Carmichael,Orkney and Shetland
+1624,Douglas,Chapman,Dunfermline and West Fife
+1625,Stephen,Gethins,North East Fife
+1626,Patricia,Gibson,North Ayrshire and Arran
+1627,Anne,McLaughlin,Glasgow North East
+1628,Steven,Paterson,Stirling
+1629,Angus,Robertson,Moray
+1630,David,Simpson,Upper Bann
+1631,Alison,Thewliss,Glasgow Central
+1632,Mr Nigel,Dodds,Belfast North
+1633,Margaret,Ferrier,Rutherglen and Hamilton West
+1634,Dr Paul,Monaghan,"Caithness, Sutherland and Easter Ross"
+1635,Gavin,Robinson,Belfast East
+1636,Mr Douglas,Carswell,Clacton
+1637,Stuart C.,McDonald,"Cumbernauld, Kilsyth and Kirkintilloch East"
+1638,Dr Eilidh,Whiteford,Banff and Buchan
+1639,Mark,Durkan,Foyle
+1640,Dr Philippa,Whitford,Central Ayrshire
+1641,Mr Gregory,Campbell,East Londonderry
+1642,Angus Brendan,MacNeil,Na h-Eileanan an Iar
+1643,Ms Tasmina,Ahmed-Sheikh,Ochil and South Perthshire
+1644,Martin,Docherty-Hughes,West Dunbartonshire
+1645,Stuart Blair,Donaldson,West Aberdeenshire and Kincardine
+1646,Stewart Malcolm,McDonald,Glasgow South
+1647,Sir Jeffrey M.,Donaldson,Lagan Valley
+1648,Ms Margaret,Ritchie,South Down
+1649,Dr Alasdair,McDonnell,Belfast South
